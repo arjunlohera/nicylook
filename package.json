@@ -2,7 +2,7 @@
     "name": "nicylook",
     "displayName": "nicylook",
     "description": "Give you VSCode a New and Nice Look!",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.36.0"
