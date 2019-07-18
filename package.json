@@ -3,10 +3,14 @@
     "displayName": "nicylook",
     "description": "Give you VSCode a New and Nice Look!",
     "version": "0.0.1",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.36.0"
     },
     "publisher": "arjunlohera",
+    "author": {
+        "name": "arjunlohera"
+      },
     "categories": [
         "Themes"
     ],
@@ -18,5 +22,9 @@
                 "path": "./themes/NicyLook-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arjunlohera/nicylook.git"
+      }
 }
