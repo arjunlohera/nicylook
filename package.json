@@ -1,0 +1,22 @@
+{
+    "name": "nicylook",
+    "displayName": "nicylook",
+    "description": "Give you VSCode a New and Nice Look!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "publisher": "arjunlohera",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NicyLook",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NicyLook-color-theme.json"
+            }
+        ]
+    }
+}
